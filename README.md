@@ -10,3 +10,5 @@ ENScan为ENScan_GO的二开工具，ENScan将数据转换为excl格式；ENScan_
 
 ## 启动ENScan_GO
 配置完成后启动exe文件，ENScan_GO提供了api接口，我们需要通过api方式启动，如图下,默认给出的端口为31000。
+
+![](README\图片1.png)
